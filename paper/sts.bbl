@@ -1,0 +1,55 @@
+\begin{thebibliography}{1}
+
+\bibitem{heilman2013ets}
+M.~Heilman and N.~Madnani, ``Ets: Domain adaptation and stacking for short
+  answer scoring,'' in {\em Proceedings of the 2nd joint conference on lexical
+  and computational semantics}, vol.~2, pp.~275--279, 2013.
+
+\bibitem{severyn2013ikernels}
+A.~Severyn, M.~Nicosia, and A.~Moschitti, ``ikernels-core: Tree kernel learning
+  for textual similarity,'' in {\em Proceedings of the Second Joint Conference
+  on Lexical and Computational Semantics}, vol.~1, pp.~53--58, Citeseer, 2013.
+
+\bibitem{arora2015dcu}
+P.~Arora, C.~Hokamp, J.~Foster, and G.~J. Jones, ``Dcu: Using distributional
+  semantics and domain adaptation for the semantic textual similarity
+  semeval-2015 task 2,'' in {\em Proceedings of the 9th International Workshop
+  on Semantic Evaluation (SemEval 2015)}, pp.~143--147, 2015.
+
+\bibitem{agirrea2015semeval}
+E.~Agirrea, C.~Baneab, C.~Cardiec, D.~Cerd, M.~Diabe, A.~Gonzalez-Agirrea,
+  W.~Guof, I.~Lopez-Gazpioa, M.~Maritxalara, R.~Mihalceab, {\em et~al.},
+  ``Semeval-2015 task 2: Semantic textual similarity, english, spanish and
+  pilot on interpretability,'' in {\em Proceedings of the 9th international
+  workshop on semantic evaluation (SemEval 2015)}, pp.~252--263, 2015.
+
+\bibitem{rehurek_lrec}
+R.~{\v R}eh{\r u}{\v r}ek and P.~Sojka, ``{Software Framework for Topic
+  Modelling with Large Corpora},'' in {\em {Proceedings of the LREC 2010
+  Workshop on New Challenges for NLP Frameworks}}, (Valletta, Malta),
+  pp.~45--50, ELRA, May 2010.
+\newblock \url{http://is.muni.cz/publication/884893/en}.
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay, ``Scikit-learn:
+  Machine learning in {P}ython,'' {\em Journal of Machine Learning Research},
+  vol.~12, pp.~2825--2830, 2011.
+
+\bibitem{BirdKleinLoper09}
+S.~Bird, E.~Klein, and E.~Loper, {\em {Natural Language Processing with
+  Python}}.
+\newblock O'Reilly Media, 2009.
+
+\bibitem{mikolov2013efficient}
+T.~Mikolov, K.~Chen, G.~Corrado, and J.~Dean, ``Efficient estimation of word
+  representations in vector space,'' {\em arXiv preprint arXiv:1301.3781},
+  2013.
+
+\bibitem{sogaard2013semi}
+A.~S{\o}gaard, ``Semi-supervised learning and domain adaptation in natural
+  language processing,'' {\em Synthesis Lectures on Human Language
+  Technologies}, vol.~6, no.~2, pp.~1--103, 2013.
+
+\end{thebibliography}
